@@ -1,0 +1,14 @@
+# Blender 4.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl KB3D_MTM_SoilGroundD
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd c:/Users/shiri/AppData/Roaming/kitbash3d/kits/kb3d_missiontominerva/7486f23e-ec38-11ed-bc82-7486e2293501/textures/png/2k/KB3D_MTM_SoilGroundD_basecolor.png
+map_Ns c:/Users/shiri/AppData/Roaming/kitbash3d/kits/kb3d_missiontominerva/7486f23e-ec38-11ed-bc82-7486e2293501/textures/png/2k/KB3D_MTM_SoilGroundD_roughness.png
+map_refl c:/Users/shiri/AppData/Roaming/kitbash3d/kits/kb3d_missiontominerva/7486f23e-ec38-11ed-bc82-7486e2293501/textures/png/2k/KB3D_MTM_SoilGroundD_metallic.png
+map_Bump -bm 1.000000 c:/Users/shiri/AppData/Roaming/kitbash3d/kits/kb3d_missiontominerva/7486f23e-ec38-11ed-bc82-7486e2293501/textures/png/2k/KB3D_MTM_SoilGroundD_normal.png
